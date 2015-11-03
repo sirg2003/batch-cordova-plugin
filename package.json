@@ -1,0 +1,47 @@
+{
+  "name": "batch-cordova-plugin",
+  "version": "1.0.0",
+  "description": "Batch.com SDK for Apache Cordova/Adobe PhoneGap",
+  "cordova": {
+    "id": "com.batch.cordova",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirg2003/batch-cordova-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "batch",
+    "batch.com",
+    "phonegap",
+    "sdk",
+    "mobile",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0-dev"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=3.6.0"
+    }
+  ],
+  "author": "Sir_G <sirg2003@gmail.com>",
+  "license": "Custom",
+  "bugs": {
+    "url": "https://github.com/sirg2003/batch-cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/sirg2003/batch-cordova-plugin#readme"
+}
